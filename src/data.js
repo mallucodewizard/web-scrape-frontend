@@ -1,0 +1,67 @@
+const menu = [
+  {
+    id: 1,
+    title: 'whatsapp privacy',
+    category: 'news',
+    img: './images/item-10.jpg',
+    desc: `https://zeenews.india.com/technology/whatsapp-starts-rolling-out-new-calling-interface-for-select-android-users-2435663.html `,
+  },
+  {
+    id: 2,
+    title: 'usa news',
+    category: 'news',
+    img: './images/item-2.jpg',
+    desc: `https://economictimes.indiatimes.com/us-elections-2020?from=mdr `,
+  },
+  {
+    id: 3,
+    title: 'magazine newyork',
+    category: 'entertainment',
+    price: 6.99,
+    img: './images/item-3.jpg',
+    desc: `https://www.nytimes.com/2022/02/09/magazine/bob-odenkirk-better-call-saul.html.`,
+  },
+  {
+    id: 4,
+    title: 'corona advise',
+    category: 'article',
+    img: './images/item-4.jpg',
+    desc: `https://kidshealth.org/en/parents/coronavirus-social-distancing.html `,
+  },
+  {
+    id: 5,
+    title: 'police attack',
+    category: 'news',
+    img: './images/item-5.jpg',
+    desc: `https://www.indiatoday.in/world/story/indian-origin-counter-terror-police-officer-tipped-to-become-next-london-police-commissioner-1912018-2022-02-11`,
+  },
+  {
+    id: 6,
+    title: 'history datas',
+    category: 'news',
+    img: './images/item-6.jpg',
+    desc: `https://time.com/5882978/freedom-definition-history/`,
+  },
+  {
+    id: 7,
+    title: 'low profile',
+    category: 'articles',
+    img: './images/item-7.jpg',
+    desc: `https://www.sciencedirect.com/science/article/abs/pii/S1618866721001163`,
+  },
+  {
+    id: 8,
+    title: 'american classic',
+    category: 'articles',
+    img: './images/item-8.jpg',
+    desc: `https://www.ksat.com/news/local/2021/03/22/san-antonio-isd-holds-mass-covid-19-vaccination-event-for-all-district-employees/ `,
+  },
+  {
+    id: 9,
+    title: 'quarantine buddy',
+    category: 'enterainment',
+    img: './images/item-9.jpg',
+    desc: `https://abcnews.go.com/US/photos/black-lives-matter-movement-photos-44402442`,
+  },
+];
+export default menu;
